@@ -1,0 +1,14 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+main {
+  width: 50%;
+  height: 50%;
+  display: flex;
+  flex-flow: column;
+  border-radius: 20px;
+  background-color: peachpuff;
+  color: deepskyblue;
+  margin: 20% auto;
+  padding: 20px;
+}
